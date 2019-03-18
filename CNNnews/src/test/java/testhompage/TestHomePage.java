@@ -3,6 +3,7 @@ package testhompage;
 import base.CommonAPI;
 import homePage.HomePage;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -23,8 +24,16 @@ public class TestHomePage extends CommonAPI {
         homePage.clickOnSearch();
     }
     @Test
-    public void searchWithsearchIteems(){
+    public void searchWithsearchIteems() throws Exception{
         homePage.SearchWithtext("christchurch");
+        Thread.sleep(3000);
+        clearInput(".cnn-search__input");
+        navigateBack();
+    }
+    @Test
+    public void titleMatching(){
+      String str = "CNN - Breaking News, Latest News and Videos";
+      Assert.assertEquals(str, driver.getTitle());
     }
 
 

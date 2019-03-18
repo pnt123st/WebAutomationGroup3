@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="Amazon Automation Script " parallel="false">
+<suite name="CNN Automation Script " parallel="false">
 
     <parameter name="useCloudEnv" value="false"/>
     <parameter name="cloudEnvName" value="browserstack"/>
@@ -16,7 +16,7 @@
     <test name = "CNN Home">
         <classes>
             <class name="testhompage.TestHomePage"/>
-            <!--<class name="search.SearchTest"/>-->
+            <class name="testDBSearch.TestSearch"/>
             <!--<class name="menu.MenuTest"/>-->
         </classes>
     </test>

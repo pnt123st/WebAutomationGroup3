@@ -11,17 +11,6 @@ public class HomePage extends CommonAPI {
 
     @FindBy(id = "search-input-field")
     WebElement searchInput;
-//
-//    @FindBy(id = "search_query_top")
-//    WebElement searchBox;
-//
-//    @FindBy(name = "submit_search")
-//    WebElement searchButton;
-//
-//    @FindBy(xpath = "//a[@title='Women']")
-//    WebElement womenTab;
-
-
 
 
     public void clickOnSearch(){
