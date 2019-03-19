@@ -39,7 +39,6 @@ public class SearchInCNN extends CommonAPI {
     }
 
 
-
     public void clearInput(){
         getSearchInputWebElement().clear();
     }
@@ -48,7 +47,7 @@ public class SearchInCNN extends CommonAPI {
         submitSearchButton();
         for(int i=0; i<list.size(); i++) {
             searchFor(list.get(i));
-            Thread.sleep(5000);
+            Thread.sleep(3000);
             clearInput();
         }
     }

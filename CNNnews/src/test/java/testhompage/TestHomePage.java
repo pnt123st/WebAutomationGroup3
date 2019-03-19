@@ -15,8 +15,8 @@ public class TestHomePage extends CommonAPI {
 
     @BeforeClass
     public void initialize() {
-        this.driver.navigate().to(this.homepageUrl);
-        this.homePage = PageFactory.initElements(this.driver, HomePage.class);
+        driver.navigate().to(homepageUrl);
+        homePage = PageFactory.initElements(driver, HomePage.class);
     }
 
     @Test

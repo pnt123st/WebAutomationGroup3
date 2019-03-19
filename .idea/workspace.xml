@@ -130,37 +130,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CNNnews/src/main/java/homePage/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNNnews/src/test/resources/CNNTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="255">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -168,17 +141,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNNnews/src/main/java/datasource/DataBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="408">
+              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNNnews/src/test/java/testhompage/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            <state relative-caret-position="-176">
+              <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -186,26 +159,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNNnews/src/main/java/searchDBPages/SearchInCNN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="151" selection-start-line="151" selection-end-line="151" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="555">
+              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -213,8 +168,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNNnews/src/test/java/testDBSearch/TestSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="116">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNNnews/src/main/java/cnnBusiness/CnnBusinessPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="108" selection-start-line="108" selection-end-line="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="494" selection-start-line="494" selection-end-line="494" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNNnews/src/test/java/testcnnBusiness/TestCnnBusinessPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -240,14 +240,16 @@
         <option value="$PROJECT_DIR$/CNNnews/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/secret.properties" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
-        <option value="$PROJECT_DIR$/CNNnews/src/test/resources/CNNTestRunner.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/CNNnews/src/main/java/searchPages/SearchInCNN.java" />
-        <option value="$PROJECT_DIR$/CNNnews/src/test/java/testDBSearch/TestSearch.java" />
+        <option value="$PROJECT_DIR$/CNNnews/src/main/java/homePage/HomePage.java" />
         <option value="$PROJECT_DIR$/CNNnews/src/main/java/datasource/DataBase.java" />
         <option value="$PROJECT_DIR$/CNNnews/src/main/java/searchDBPages/SearchInCNN.java" />
-        <option value="$PROJECT_DIR$/CNNnews/src/main/java/homePage/HomePage.java" />
+        <option value="$PROJECT_DIR$/CNNnews/src/main/java/cnnBusiness/CnnBusinessPage.java" />
         <option value="$PROJECT_DIR$/CNNnews/src/test/java/testhompage/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/CNNnews/src/test/java/testDBSearch/TestSearch.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/CNNnews/src/test/resources/CNNTestRunner.xml" />
+        <option value="$PROJECT_DIR$/CNNnews/src/test/java/testcnnBusiness/TestCnnBusinessPage.java" />
       </list>
     </option>
   </component>
@@ -295,11 +297,11 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="309" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="78" />
     <option name="y" value="23" />
-    <option name="width" value="1090" />
-    <option name="height" value="814" />
+    <option name="width" value="1160" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -347,16 +349,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="datasource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
-              <item name="CNNnews" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homePage" type="462c0819:PsiDirectoryNode" />
+              <item name="cnnBusiness" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
@@ -381,6 +374,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationGroup3" type="462c0819:PsiDirectoryNode" />
+              <item name="CNNnews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testcnnBusiness" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WebAutomationGroup3" type="b2602c69:ProjectViewProjectNode" />
@@ -467,7 +469,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552943870782" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552967570479" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -499,33 +501,60 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG./Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml">
-    <configuration name="ConnectToSqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="databases.ConnectToSqlDB" />
-      <module name="Generic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="databases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datasource.DataBase" />
+    <configuration name="TestCnnBusinessPage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CNNnews" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datasource.*" />
+          <option name="PATTERN" value="testcnnBusiness.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="testcnnBusiness" />
+      <option name="MAIN_CLASS_NAME" value="testcnnBusiness.TestCnnBusinessPage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHomePage.titleMatching" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCnnBusinessPage.menubtn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CNNnews" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcnnBusiness.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcnnBusiness" />
+      <option name="MAIN_CLASS_NAME" value="testcnnBusiness.TestCnnBusinessPage" />
+      <option name="METHOD_NAME" value="menubtn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCnnBusinessPage.pageBusiness" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CNNnews" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcnnBusiness.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcnnBusiness" />
+      <option name="MAIN_CLASS_NAME" value="testcnnBusiness.TestCnnBusinessPage" />
+      <option name="METHOD_NAME" value="pageBusiness" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CNNnews" />
       <extension name="coverage">
         <pattern>
@@ -535,26 +564,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="testhompage" />
       <option name="MAIN_CLASS_NAME" value="testhompage.TestHomePage" />
-      <option name="METHOD_NAME" value="titleMatching" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSearch.testFromDBsearch" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CNNnews" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testDBSearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testDBSearch" />
-      <option name="MAIN_CLASS_NAME" value="testDBSearch.TestSearch" />
-      <option name="METHOD_NAME" value="testFromDBsearch" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -574,10 +584,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml" />
-        <item itemvalue="TestNG.TestHomePage.titleMatching" />
-        <item itemvalue="TestNG.TestSearch.testFromDBsearch" />
-        <item itemvalue="Application.DataBase" />
-        <item itemvalue="Application.ConnectToSqlDB" />
+        <item itemvalue="TestNG.TestCnnBusinessPage" />
+        <item itemvalue="TestNG.TestHomePage" />
+        <item itemvalue="TestNG.TestCnnBusinessPage.menubtn" />
+        <item itemvalue="TestNG.TestCnnBusinessPage.pageBusiness" />
       </list>
     </recent_temporary>
   </component>
@@ -595,42 +605,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 16h 44m 52s.xml">
+    <history-entry file="TestCnnBusinessPage_menubtn - 2019.03.18 at 23h 30m 18s.xml">
+      <configuration name="TestCnnBusinessPage.menubtn" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCnnBusinessPage - 2019.03.18 at 23h 31m 59s.xml">
+      <configuration name="TestCnnBusinessPage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage - 2019.03.18 at 23h 34m 11s.xml">
+      <configuration name="TestHomePage" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 23h 37m 59s.xml">
       <configuration name="/Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 16h 45m 22s.xml">
+    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 23h 38m 54s.xml">
       <configuration name="/Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestSearch_testFromDBsearch - 2019.03.18 at 16h 48m 52s.xml">
-      <configuration name="TestSearch.testFromDBsearch" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 16h 54m 02s.xml">
+    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 23h 39m 46s.xml">
       <configuration name="/Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 16h 55m 19s.xml">
+    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 23h 41m 25s.xml">
       <configuration name="/Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 16h 59m 44s.xml">
+    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 23h 42m 20s.xml">
       <configuration name="/Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 17h 05m 03s.xml">
+    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 23h 47m 25s.xml">
       <configuration name="/Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 17h 05m 35s.xml">
-      <configuration name="/Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 17h 07m 53s.xml">
-      <configuration name="/Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 17h 09m 54s.xml">
+    <history-entry file="_Users_jewal_IntelliJ_WebAutomationGroup3_CNNnews_src_test_resources_CNNTestRunner_xml - 2019.03.18 at 23h 49m 35s.xml">
       <configuration name="/Users/jewal/IntelliJ/WebAutomationGroup3/CNNnews/src/test/resources/CNNTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="78" y="23" width="1160" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989775" visible="true" weight="0.25416666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989775" visible="true" weight="0.31551725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -639,21 +649,21 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010225" side_tool="true" weight="0.24640805" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33254993" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28437132" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.47129506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.16555408" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25033647" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25029376" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32197416" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32176235" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Codota" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.4216954" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.35416666" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -664,21 +674,15 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
-          <line>55</line>
+          <line>54</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
-          <line>54</line>
+          <line>53</line>
           <properties />
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/CNNnews/src/test/java/testhompage/TestHomePage.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java</url>
@@ -776,27 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="151" selection-start-line="151" selection-end-line="151" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -804,45 +787,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNNnews/src/test/resources/CNNTestRunner.xml">
+    <entry file="file://$PROJECT_DIR$/CNNnews/src/main/java/homePage/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CNNnews/src/main/java/datasource/DataBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="408">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="494" selection-start-line="494" selection-end-line="494" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNNnews/src/main/java/cnnBusiness/CnnBusinessPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CNNnews/src/main/java/searchDBPages/SearchInCNN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        <state relative-caret-position="555">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNNnews/src/main/java/homePage/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="765">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNNnews/src/test/java/testDBSearch/TestSearch.java">
+    <entry file="file://$PROJECT_DIR$/CNNnews/src/test/resources/CNNTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CNNnews/src/test/java/testhompage/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        <state relative-caret-position="-176">
+          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNNnews/src/test/java/testDBSearch/TestSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNNnews/src/test/java/testcnnBusiness/TestCnnBusinessPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
         </state>
       </provider>
     </entry>
