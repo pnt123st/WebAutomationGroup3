@@ -77,11 +77,12 @@ public class CommonAPI {
         if (result.getStatus() == ITestResult.FAILURE) {
             captureScreenshot(driver, result.getName());
         }
-//        driver.quit();
+       driver.quit();
     }
     @AfterSuite
     public void generateReport() {
         extent.close();
+
     }
     private Date getTime(long millis) {
         Calendar calendar = Calendar.getInstance();

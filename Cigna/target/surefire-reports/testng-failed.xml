@@ -10,13 +10,17 @@
   <parameter name="url" value="https://www.cigna.com/"/>
   <test thread-count="5" verbose="0" name="Cigna Home(failed)">
     <classes>
-      <class name="individualsandfamilies.VerifyIndividualsAndFamiliesTabByClick">
+      <class name="loginpage.LoginPageTest">
         <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="setUserNameTest"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
           <include name="setUp"/>
-          <include name="VerifyIndividualsAndFamiliesTabByClick"/>
+          <include name="startExtent"/>
           <include name="cleanUp"/>
         </methods>
-      </class> <!-- individualsandfamilies.VerifyIndividualsAndFamiliesTabByClick -->
+      </class> <!-- loginpage.LoginPageTest -->
     </classes>
   </test> <!-- Cigna Home(failed) -->
 </suite> <!-- Failed suite [Cigna Automation Script] -->

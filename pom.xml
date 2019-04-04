@@ -16,7 +16,6 @@
 
     <dependencyManagement>
         <dependencies>
-
             <dependency>
                 <groupId>org.seleniumhq.selenium</groupId>
                 <artifactId>selenium-server</artifactId>
@@ -47,8 +46,6 @@
                 <artifactId>poi</artifactId>
                 <version>3.17</version>
             </dependency>
-
-
             <dependency>
                 <groupId>com.aventstack</groupId>
                 <artifactId>extentreports</artifactId>
@@ -106,13 +103,7 @@
                     <target>1.8</target>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
-
-
-
-
-
-
-
 </project>

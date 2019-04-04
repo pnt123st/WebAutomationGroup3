@@ -15,12 +15,11 @@
     <test name="Cigna Home">
         <classes>
             <class name="cignahomepage.CignaHomePageTest"/>
-            <class name="searchoncignatabpage.SearchOnCignaTabTest"/>
-            <class name="logintomycignapage.ClickOnLogInToMyCignaTest"/>
-            <class name="finddoctordentistorfacilitypage.ClickOnFindADoctorDentistOrFacility"/>
-            <!--<class name="individualsandfamiliespage.VerifyIndividualsAndFamiliesTabByClick"/>-->
+            <class name="loginpage.LoginPageTest"/>
+            <!--<class name="searchoncignatabpage.SearchOnCignaTabTest"/>-->
+            <!--<class name="loginpage.LoginPageTest"/>-->
+            <!--<class name="finddoctordentistorfacilitypage.FindDoctorDentistFacilityPageTest"/>-->
+            <!--<class name="individualsandfamiliespage.IndividualsAndFamiliesPageTest"/>-->
         </classes>
-    </test>
-
-
+       </test>
 </suite>

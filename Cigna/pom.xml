@@ -38,7 +38,6 @@
                          <suiteXmlFiles>target/test-classes/CignaTestRunner.xml</suiteXmlFiles>
                      </suiteXmlFiles>
                  </configuration>
-
              </plugin>
          </plugins>
      </build>
